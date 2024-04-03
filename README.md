@@ -107,7 +107,7 @@ Columnas:
 
 
 
-## ㊙️ **Pre-Processing**
+## 📊 **Pre-Processing**
 
 <details>
     <summary> Expandir </summary>
@@ -126,7 +126,7 @@ Columnas:
 
 
 
-## 📜 **Arquitectura y Training**
+##  🧬 **Arquitectura y Training**
 
 <details>
     <summary> Expandir </summary>
@@ -143,7 +143,7 @@ Columnas:
 
 
 
-## 📜 **Fine-Tuning y Mejoras**
+##  🔧 **Fine-Tuning y Mejoras**
 
 <details>
     <summary> Expandir </summary>
@@ -166,7 +166,7 @@ Columnas:
 
 
 
-## 📜 **Optimización**
+##  🎚️**Optimización**
 
 <details>
     <summary> Expandir </summary>
@@ -210,7 +210,7 @@ Columnas:
 <details>
     <summary> Expandir </summary>
 
-* []()
+* [Modelo](https://github.com/vbleal/UrbanSound8k/blob/main/GH_UrbanSound8k_Keras.ipynb)
   
 
 </details>
